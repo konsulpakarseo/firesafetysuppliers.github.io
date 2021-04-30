@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//firesafety.suppliers.id/main-sitemap.xsl"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd https://www.google.com/schemas/sitemap-image/1.1 https://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://firesafety.suppliers.id/blog</loc>
 		<lastmod>2020-12-02T11:19:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://firesafety.suppliers.id/</loc>
-		<lastmod>2021-04-29T07:33:57+00:00</lastmod>
+		<lastmod>2021-04-30T07:02:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://firesafety.suppliers.id/wp-content/uploads/2021/04/fire-alarm-system-5.jpg</image:loc>
 			<image:caption><![CDATA[fire-alarm-system-5]]></image:caption>
@@ -23,6 +23,10 @@
 			<image:loc>https://firesafety.suppliers.id/wp-content/uploads/2021/04/petugas-pemadam-kebakaran-3.jpg</image:loc>
 			<image:caption><![CDATA[petugas-pemadam-kebakaran-3]]></image:caption>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://firesafety.suppliers.id/pintu-tahan-api.html</loc>
+		<lastmod>2021-04-30T07:20:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://firesafety.suppliers.id/helm-pemadam-kebakaran.html</loc>
