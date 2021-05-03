@@ -1,5 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /category/
 Allow:
 
 Sitemap: https://firesafety.suppliers.id/sitemap_index.xml
